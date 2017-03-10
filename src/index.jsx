@@ -4,11 +4,11 @@ import firebase from 'firebase'
 
  // Initialize Firebase
  const config = {
-  apiKey: "AIzaSyBDZdyb-IK5DrdL91umwrcFNl2QgCUFka0",
+  apiKey: "AIzaSyBDZhfdauihfiushfuidashifaeUFka0",
   authDomain: "react-firebase-database.firebaseapp.com",
   databaseURL: "https://react-firebase-database.firebaseio.com",
   storageBucket: "react-firebase-database.appspot.com",
-  messagingSenderId: "937869248647"
+  messagingSenderId: "93787832492647"
  };
   firebase.initializeApp(config);
 
